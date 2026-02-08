@@ -1,0 +1,8 @@
+# Project Dependencies
+
+fastapi
+uvicorn
+pymysql
+pyyaml
+modbus-tk
+
